@@ -1,0 +1,9 @@
+{
+  "name": "spruchgenerator",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api/generate.js",
+  "dependencies": {
+    "canvas": "^2.11.2"
+  }
+}
